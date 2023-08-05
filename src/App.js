@@ -27,7 +27,7 @@ function Article() {
   return <article>
   <h2>Welcome</h2>
   Hello, Web
-  <br></br> my name is jintae_park
+  <br></br> working...react
 </article>
 }
 
